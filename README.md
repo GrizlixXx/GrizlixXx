@@ -1,12 +1,5 @@
 ### 👋 Hi there, I'm Illya Sumar!
 
----
-
-<h3>When I code, I rely on</h3>
-### 👋 Hi there, I'm Ілля!
-
----
-
 <h3>⚡ Turning complex ideas into clean code, scalable architecture, and AI-driven solutions</h3>
 
 <p>
